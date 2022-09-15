@@ -1,0 +1,5 @@
+module tb;
+inputs a,b;
+outputs sum;
+assign sum=a+b;
+endmodule
