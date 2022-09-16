@@ -1,6 +1,8 @@
 module;
-a,b;
+a,g,b;
 sum;
 assign;
+sub;
+echo"chennagidhiya";
 endmodule;
 
