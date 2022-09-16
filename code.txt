@@ -2,6 +2,7 @@ module;
 a,g,b;
 sum;
 assign;
+sub;
 echo"chennagidhiya";
 endmodule;
 
